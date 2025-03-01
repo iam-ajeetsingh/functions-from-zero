@@ -1,5 +1,5 @@
 import click
-import wikipedia
+#import wikipedia
 from mylib.bot import scrape
 
 
