@@ -7,8 +7,8 @@ print(result)
 
 
 def scrape(name = "Microsoft", length =1):
-    result = wikipedia.summary(name, sentences = length)
-    return result
+    result2 = wikipedia.summary(name, sentences = length)
+    return result2
 
 reply = scrape()
 
